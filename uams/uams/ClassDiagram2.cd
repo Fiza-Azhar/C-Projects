@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="1">
+    <Position X="4.55" Y="3.989" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="4.534" Y="1.903" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="10.775" Y="2.404" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="8.161" Y="0.642" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="M">
+    <Position X="3.157" Y="4.503" Height="0.31" Width="0.7" />
+  </Comment>
+  <Class Name="uams.BL.DegreeProgram">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAgIAAAAAAAAAAAAJAAAAIAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>BL\DegreeProgram.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Subject" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="uams.BL.Student">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Subject" Type="uams.BL.Subject" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="2.75" />
+        <Point X="6.5" Y="2.75" />
+        <Point X="6.5" Y="1.596" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="DegreeProgramDL" Type="uams.DL.DegreeProgramDL" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="3.875" />
+        <Point X="8.25" Y="3.875" />
+        <Point X="8.25" Y="3.314" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAQAIAAAAAQAAIAIAAAEAAAAAEBABAEgAAAAAABAI=</HashCode>
+      <FileName>BL\Student.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Subject" />
+      <Property Name="DegreeProgramDL" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="uams.BL.Subject" Collapsed="true">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAQAAAIAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.DL.DegreeProgramDL">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAABAAAEAAAAAABAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\DegreeProgramDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DegreeProgram" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="uams.DL.StudentDL" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <AssociationLine Name="Student" Type="uams.BL.Student" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10" Y="2.048" />
+        <Point X="9.5" Y="2.048" />
+        <Point X="9.5" Y="4.697" />
+        <Point X="3.812" Y="4.697" />
+        <Point X="3.812" Y="4.447" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ABAAAQCBQAAAACAAAABAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\StudentDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="uams.UI.DegreeProgramUI">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\DegreeProgramUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.UI.MenuUI">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.UI.StudentUI">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAQAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\StudentUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.UI.SubjectUI">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAEAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\SubjectUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
