@@ -1,0 +1,7 @@
+fiza,123,admin
+ali,123,admin
+sdd,133,admin
+ali,231,customer
+,,
+,,
+ali,222,admin

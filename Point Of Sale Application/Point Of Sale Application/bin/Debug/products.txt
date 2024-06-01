@@ -1,0 +1,5 @@
+Oil,grocery,80,50,20
+rice,grocery,300,60,10
+apple,fruit,20,40,5
+wheat,food,300,200,20
+rice,food,290,100,20

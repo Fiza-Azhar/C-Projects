@@ -1,0 +1,14 @@
+D:\C# Programs\Point Of Sale Application\Point Of Sale Application\bin\Debug\Point Of Sale Application.exe.config
+D:\C# Programs\Point Of Sale Application\Point Of Sale Application\bin\Debug\Point Of Sale Application.exe
+D:\C# Programs\Point Of Sale Application\Point Of Sale Application\bin\Debug\Point Of Sale Application.pdb
+D:\C# Programs\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.csproj.AssemblyReference.cache
+D:\C# Programs\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.csproj.CoreCompileInputs.cache
+D:\C# Programs\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.exe
+D:\C# Programs\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.pdb
+D:\C# Programs\5PROJECTS\Point Of Sale Application\Point Of Sale Application\bin\Debug\Point Of Sale Application.exe.config
+D:\C# Programs\5PROJECTS\Point Of Sale Application\Point Of Sale Application\bin\Debug\Point Of Sale Application.exe
+D:\C# Programs\5PROJECTS\Point Of Sale Application\Point Of Sale Application\bin\Debug\Point Of Sale Application.pdb
+D:\C# Programs\5PROJECTS\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.csproj.AssemblyReference.cache
+D:\C# Programs\5PROJECTS\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.csproj.CoreCompileInputs.cache
+D:\C# Programs\5PROJECTS\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.exe
+D:\C# Programs\5PROJECTS\Point Of Sale Application\Point Of Sale Application\obj\Debug\Point Of Sale Application.pdb

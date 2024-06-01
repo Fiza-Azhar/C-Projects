@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Add">
+    <Position X="3.197" Y="2.029" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="contains">
+    <Position X="6.35" Y="0.5" Height="0.369" Width="0.769" />
+  </Comment>
+  <Comment CommentText="Buy">
+    <Position X="8.545" Y="2.53" Height="0.339" Width="0.7" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="9.777" Y="2.169" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Many">
+    <Position X="11.31" Y="0.5" Height="0.369" Width="0.769" />
+  </Comment>
+  <Comment CommentText="Many">
+    <Position X="4.458" Y="2.713" Height="0.369" Width="0.769" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="1.223" Y="0.69" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Many">
+    <Position X="6.802" Y="2.162" Height="0.369" Width="0.769" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="2.034" Y="2.473" Height="0.31" Width="0.7" />
+  </Comment>
+  <Class Name="Point_Of_Sale_Application.BL.Customer">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <AssociationLine Name="Product" Type="Point_Of_Sale_Application.BL.Product" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="2.875" />
+        <Point X="8.625" Y="2.875" />
+        <Point X="8.625" Y="2.625" />
+        <Point X="6.75" Y="2.625" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAAAAAAAAgAAIAAAAAEAAAAAAAgAAIAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Product" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.BL.Muser">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <AssociationLine Name="Customer" Type="Point_Of_Sale_Application.BL.Customer" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.562" Y="1" />
+        <Point X="1.739" Y="1" />
+        <Point X="1.739" Y="0.377" />
+        <Point X="11.25" Y="0.377" />
+        <Point X="11.25" Y="1.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAABAAAEAAAAABAAAAQEAAgAAAAEAAAAAAA=</HashCode>
+      <FileName>BL\Muser.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+      <Property Name="Product" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.BL.Product">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAAAAAAABAikAIgRAAAAAAAABAAAQIAQwAAgA=</HashCode>
+      <FileName>BL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.DL.CustomerDL" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgQAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.DL.MuserDL">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAACAAAAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>DL\MuserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.DL.ProductDL">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAhAAAAQAAACAAAAAAgAAAAAAAAAAAABAABAAA=</HashCode>
+      <FileName>DL\ProductDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.UI.CustomerUI">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\CustomerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.UI.MenuUI">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAABAAAgAAAAAAAAAQAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.UI.MuserUI">
+    <Position X="10.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MuserUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Of_Sale_Application.UI.ProductUI">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>UI\ProductUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
