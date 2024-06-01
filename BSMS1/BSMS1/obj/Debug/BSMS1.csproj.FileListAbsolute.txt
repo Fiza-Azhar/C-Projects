@@ -1,0 +1,11 @@
+D:\C# Programs\BSMS1\BSMS1\bin\Debug\BSMS1.exe.config
+D:\C# Programs\BSMS1\BSMS1\bin\Debug\BSMS1.exe
+D:\C# Programs\BSMS1\BSMS1\bin\Debug\BSMS1.pdb
+D:\C# Programs\BSMS1\BSMS1\obj\Debug\BSMS1.csproj.AssemblyReference.cache
+D:\C# Programs\BSMS1\BSMS1\obj\Debug\BSMS1.csproj.CoreCompileInputs.cache
+D:\C# Programs\BSMS1\BSMS1\obj\Debug\BSMS1.exe
+D:\C# Programs\BSMS1\BSMS1\obj\Debug\BSMS1.pdb
+D:\Semester 2\C# Programs\BSMS Application Forms\BSMS1\BSMS1\obj\Debug\BSMS1.csproj.AssemblyReference.cache
+D:\Semester 2\C# Programs\BSMS Application Forms\BSMS1\BSMS1\obj\Debug\BSMS1.csproj.CoreCompileInputs.cache
+D:\Semester 2\C# Programs\BSMS Application Forms\BSMS1\BSMS1\obj\Debug\BSMS1.exe
+D:\Semester 2\C# Programs\BSMS Application Forms\BSMS1\BSMS1\obj\Debug\BSMS1.pdb

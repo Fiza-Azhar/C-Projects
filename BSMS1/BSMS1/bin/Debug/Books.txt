@@ -1,0 +1,10 @@
+eng,150,46
+Urdu,290,120
+bio,200,123
+JKP,400,130
+CLCS,300,112
+APS,100,450
+science,200,321
+math,200,321
+Isl,40,290
+Peer E Kamil,378,211
