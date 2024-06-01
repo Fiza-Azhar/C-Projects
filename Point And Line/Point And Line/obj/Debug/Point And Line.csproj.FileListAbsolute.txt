@@ -1,0 +1,14 @@
+D:\C# Programs\Point And Line\Point And Line\bin\Debug\Point And Line.exe.config
+D:\C# Programs\Point And Line\Point And Line\bin\Debug\Point And Line.exe
+D:\C# Programs\Point And Line\Point And Line\bin\Debug\Point And Line.pdb
+D:\C# Programs\Point And Line\Point And Line\obj\Debug\Point And Line.csproj.AssemblyReference.cache
+D:\C# Programs\Point And Line\Point And Line\obj\Debug\Point And Line.csproj.CoreCompileInputs.cache
+D:\C# Programs\Point And Line\Point And Line\obj\Debug\Point And Line.exe
+D:\C# Programs\Point And Line\Point And Line\obj\Debug\Point And Line.pdb
+D:\C# Programs\5PROJECTS\Point And Line\Point And Line\bin\Debug\Point And Line.exe.config
+D:\C# Programs\5PROJECTS\Point And Line\Point And Line\bin\Debug\Point And Line.exe
+D:\C# Programs\5PROJECTS\Point And Line\Point And Line\bin\Debug\Point And Line.pdb
+D:\C# Programs\5PROJECTS\Point And Line\Point And Line\obj\Debug\Point And Line.csproj.AssemblyReference.cache
+D:\C# Programs\5PROJECTS\Point And Line\Point And Line\obj\Debug\Point And Line.csproj.CoreCompileInputs.cache
+D:\C# Programs\5PROJECTS\Point And Line\Point And Line\obj\Debug\Point And Line.exe
+D:\C# Programs\5PROJECTS\Point And Line\Point And Line\obj\Debug\Point And Line.pdb
