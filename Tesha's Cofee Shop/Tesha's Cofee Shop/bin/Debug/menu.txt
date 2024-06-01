@@ -1,0 +1,13 @@
+pizza,90,food
+coke,20,drink
+bread,98,food
+lays,20,food
+roast,200,food
+fajita,900,food
+burger,90,food
+water,10,drink
+fanta,30,drink
+ice,20,food
+Biryani,100,food
+Sprite,80,drink
+juice,10,drink

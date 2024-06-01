@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Contains">
+    <Position X="2.734" Y="1.061" Height="0.31" Width="0.889" />
+  </Comment>
+  <Comment CommentText="Contains">
+    <Position X="2.654" Y="3.324" Height="0.31" Width="0.889" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="2.123" Y="1.542" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="M">
+    <Position X="3.455" Y="1.472" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="M">
+    <Position X="5.859" Y="1.252" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="7.221" Y="1.301" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="2.072" Y="3.905" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="M">
+    <Position X="3.485" Y="3.925" Height="0.31" Width="0.7" />
+  </Comment>
+  <Class Name="Tesha_s_Cofee_Shop.BL.CoffeShop">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAABAAAAEAAAAAEA=</HashCode>
+      <FileName>BL\CoffeShop.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MenuItem" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Tesha_s_Cofee_Shop.BL.MenuItem">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAARAAARAFAABAAAAEAAAAAAA=</HashCode>
+      <FileName>BL\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Cofee_Shop.DL.MenuDL">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABBABEABAAAAAAgAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\MenuDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MenuItem" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Tesha_s_Cofee_Shop.DL.OrderDL">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>DL\OrderDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MenuItem" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Tesha_s_Cofee_Shop.UI.MenuUI">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAEBAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Cofee_Shop.UI.ProductUI">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAAABAAAA=</HashCode>
+      <FileName>UI\ProductUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

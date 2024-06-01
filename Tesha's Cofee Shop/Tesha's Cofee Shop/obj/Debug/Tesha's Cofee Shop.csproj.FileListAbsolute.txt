@@ -1,0 +1,21 @@
+D:\C# Programs\Practice tasks\WEEK4 PD\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.exe.config
+D:\C# Programs\Practice tasks\WEEK4 PD\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.exe
+D:\C# Programs\Practice tasks\WEEK4 PD\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.pdb
+D:\C# Programs\Practice tasks\WEEK4 PD\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.csproj.AssemblyReference.cache
+D:\C# Programs\Practice tasks\WEEK4 PD\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.csproj.CoreCompileInputs.cache
+D:\C# Programs\Practice tasks\WEEK4 PD\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.exe
+D:\C# Programs\Practice tasks\WEEK4 PD\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.pdb
+D:\C# Programs\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.exe.config
+D:\C# Programs\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.exe
+D:\C# Programs\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.pdb
+D:\C# Programs\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.csproj.AssemblyReference.cache
+D:\C# Programs\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.csproj.CoreCompileInputs.cache
+D:\C# Programs\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.exe
+D:\C# Programs\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.pdb
+D:\C# Programs\5PROJECTS\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.exe.config
+D:\C# Programs\5PROJECTS\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.exe
+D:\C# Programs\5PROJECTS\Tesha's Cofee Shop\Tesha's Cofee Shop\bin\Debug\Tesha's Cofee Shop.pdb
+D:\C# Programs\5PROJECTS\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.csproj.AssemblyReference.cache
+D:\C# Programs\5PROJECTS\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.csproj.CoreCompileInputs.cache
+D:\C# Programs\5PROJECTS\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.exe
+D:\C# Programs\5PROJECTS\Tesha's Cofee Shop\Tesha's Cofee Shop\obj\Debug\Tesha's Cofee Shop.pdb
