@@ -1,0 +1,10 @@
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\bin\Debug\NOTEPAD1.exe.config
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\bin\Debug\NOTEPAD1.exe
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\bin\Debug\NOTEPAD1.pdb
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\obj\Debug\NOTEPAD1.csproj.AssemblyReference.cache
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\obj\Debug\NOTEPAD1.NotePad.resources
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\obj\Debug\NOTEPAD1.Properties.Resources.resources
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\obj\Debug\NOTEPAD1.csproj.GenerateResource.cache
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\obj\Debug\NOTEPAD1.csproj.CoreCompileInputs.cache
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\obj\Debug\NOTEPAD1.exe
+D:\C# Programs\Forms\NOTEPAD1\NOTEPAD1\obj\Debug\NOTEPAD1.pdb
