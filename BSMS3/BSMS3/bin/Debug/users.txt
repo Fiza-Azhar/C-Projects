@@ -1,0 +1,11 @@
+fiza,123,admin
+amna,123,admin
+ali,321,customer
+saad,222,Admin
+azhar,333,Admin
+ahmad,232,Customer
+ali,55,Admin
+zzz,as3,Admin
+rr,32,Admin
+maryam,333,Admin
+ali,123,Admin

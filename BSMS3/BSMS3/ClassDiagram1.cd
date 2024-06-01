@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Add">
+    <Position X="0.5" Y="2.219" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Many">
+    <Position X="5.583" Y="0.892" Height="0.31" Width="0.838" />
+  </Comment>
+  <Comment CommentText="Contains">
+    <Position X="3.898" Y="0.938" Height="0.31" Width="0.838" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="1.882" Y="0.5" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="1">
+    <Position X="6.244" Y="2.754" Height="0.31" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Many">
+    <Position X="4.048" Y="1.683" Height="0.31" Width="0.838" />
+  </Comment>
+  <Comment CommentText="Buy">
+    <Position X="5.741" Y="1.648" Height="0.31" Width="0.838" />
+  </Comment>
+  <Class Name="BSMS3.BL.BooksBL">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAgAABAIAAgAAgAIAAIAAAAAAAAAA=</HashCode>
+      <FileName>BL\BooksBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.BL.customer">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <AssociationLine Name="BooksBL" Type="BSMS3.BL.BooksBL" ManuallyRouted="true">
+      <Path>
+        <Point X="7" Y="3.166" />
+        <Point X="5.762" Y="3.166" />
+        <Point X="5.762" Y="1.63" />
+        <Point X="3.25" Y="1.63" />
+        <Point X="3.25" Y="1.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAIBIAAAAQAAAAAAgAAAAIQAgAAEAIAAAAAIAAAACAA=</HashCode>
+      <FileName>BL\customer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BooksBL" />
+      <Property Name="Buy" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BSMS3.BL.Muser">
+    <Position X="0.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACABAAAgAQQAAAAEAAAA=</HashCode>
+      <FileName>BL\Muser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.DL.BooksDL">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Update" Type="BSMS3.Update" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="7.155" />
+        <Point X="5.5" Y="7.249" />
+        <Point X="6.729" Y="7.249" />
+        <Point X="6.729" Y="7.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAACAAIAAgQBBBAAAAAAAAAIEAAAAAAEAAAA=</HashCode>
+      <FileName>DL\BooksDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Update" />
+      <Property Name="DeleteItem" />
+      <Property Name="AdminViewBook" />
+      <Property Name="AllBooks1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BSMS3.DL.CustomerDL">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.DL.MuserDL">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAACAAAAAAAAIAABAAAAAAIAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>DL\MuserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.Buy">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAIpEQACAAABKAAACAQAQCgFA4AAIAgHAYAQDAACA=</HashCode>
+      <FileName>Form10.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BooksDL" />
+      <Property Name="CustomerDL" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BSMS3.Cart">
+    <Position X="14.75" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIhUQACAAABAAAACAQAACAFg4AAAAgHAIAQDAACA=</HashCode>
+      <FileName>Form11.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CustomerDL" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BSMS3.Bill">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIhAQACAAABAAAACAQAACgFw4AAAAgHAIAQDAACA=</HashCode>
+      <FileName>Form13.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CustomerDL" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BSMS3.AdminAddBook">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAIhUQACAgARAQAAGAQAACgkC4CAAAgPAoBQBAACA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.AdminViewBook">
+    <Position X="4.5" Y="7.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIhERACAAARAAAAGCQAACgEg4AEAAgFAoAQBAACA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.Update">
+    <Position X="6" Y="7.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIhERgCAAARAAAAGCQAACgEE4AAAAIHAoAQBAACA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.DeleteItem">
+    <Position X="3" Y="6.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIhERgCABARAAAAGCQAACAEE4AAAAAHAsAQBAACA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.EditForm" Collapsed="true">
+    <Position X="7.5" Y="7" Width="1.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAIhAQACAAARAQAAKAQAACAsC4CAAAgJAgBQBAgCA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Update" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BSMS3.CustMenu">
+    <Position X="18" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>ABQAIhUQACAAABAAAAGAQAACgEA4AAAAgHAIAQBAACA=</HashCode>
+      <FileName>Form9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSMS3.AllBooks">
+    <Position X="13" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAIhEQACAAARAAAACCQAACgEg4AAAAgFAoAQDAACA=</HashCode>
+      <FileName>Form12.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

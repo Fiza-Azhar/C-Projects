@@ -1,0 +1,5 @@
+math,Henry,TextBook,200,70
+eng,ali,TextBook,383,30
+physics,hh,TextBook,456,234
+CLCS,asim,TextBook,600,390
+harry potter,JK rolling,Novel,50,1000
