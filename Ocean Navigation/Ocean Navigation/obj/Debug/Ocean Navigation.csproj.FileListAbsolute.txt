@@ -1,0 +1,16 @@
+D:\C# Programs\Practice tasks\WEEK4 PD\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.AssemblyReference.cache
+D:\C# Programs\Practice tasks\WEEK4 PD\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.CoreCompileInputs.cache
+D:\C# Programs\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.AssemblyReference.cache
+D:\C# Programs\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.CoreCompileInputs.cache
+D:\C# Programs\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.exe.config
+D:\C# Programs\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.exe
+D:\C# Programs\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.pdb
+D:\C# Programs\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.exe
+D:\C# Programs\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.pdb
+D:\C# Programs\5PROJECTS\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.exe.config
+D:\C# Programs\5PROJECTS\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.exe
+D:\C# Programs\5PROJECTS\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.pdb
+D:\C# Programs\5PROJECTS\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.AssemblyReference.cache
+D:\C# Programs\5PROJECTS\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.CoreCompileInputs.cache
+D:\C# Programs\5PROJECTS\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.exe
+D:\C# Programs\5PROJECTS\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.pdb

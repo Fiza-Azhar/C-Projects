@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ocean_Navigation.BL.Angle">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACQBAoAAAAAAAAAQCCABAAQAAAAAEAABEAAAAAAAAA=</HashCode>
+      <FileName>BL\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ocean_Navigation.BL.Ship">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAIAAEAAAAACAAAIJAAAAAAAAAAAAEAAAABgAEA=</HashCode>
+      <FileName>BL\Ship.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Angle" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ocean_Navigation.DL.ShipDL">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAEARAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\ShipDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Ship" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ocean_Navigation.UI.MenuUI">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ocean_Navigation.UI.ShipUI">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Angle" Type="Ocean_Navigation.BL.Angle" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.408" />
+        <Point X="2.5" Y="1.408" />
+        <Point X="2.5" Y="5.172" />
+        <Point X="1.438" Y="5.172" />
+        <Point X="1.438" Y="4.922" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAACAAACAAAAAAEACAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>UI\ShipUI.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Angle" />
+      <Property Name="Ship" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
